@@ -13,3 +13,5 @@ FRONT
 1) npx create-react-app frontend
 2) cd frontend
 3) npm install react-router-dom
+4) npm install bootstrap
+5) npm install tailwindcss
