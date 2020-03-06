@@ -1,6 +1,5 @@
 import React from 'react';
 import {BrowserRouter as Router, Route } from "react-router-dom";
-// import 'bootstrap/dist/css/bootstrap.min.css';
 import 'tailwindcss/dist/tailwind.min.css'
 import './App.css';
 
